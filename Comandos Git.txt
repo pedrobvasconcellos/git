@@ -1,0 +1,33 @@
+//situação do arquivo
+git status
+
+//Mandar arquivos
+git init
+git add .
+git commit -a -m "Nome do commit"
+git remote add origin "Link repositório do GitHub"
+git push origin master
+
+//Alterações
+git commit -a -m "Nome do commit"
+git push origin master
+
+//Adicionando mais arquivos
+git add .
+git commit -a -m "Nome do commit"
+git push origin master
+
+//Clonar repositório
+*Pegar o link do repositório
+*Git bash here
+git clone link do repositório
+git add .
+git commit -a -m "Nome do commit"
+git push origin master
+
+//Pegar arquivos do meu repositório no meu computador
+*Git bash here
+git pull origin master
+
+
+
